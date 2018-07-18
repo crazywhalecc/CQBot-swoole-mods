@@ -7,7 +7,7 @@ A fast and multi-task framework for Coolq-HTTP-API written by swoole release mod
 ## 这是什么
 CQBot-swoole是一个支持多平台的机器人服务框架。[详情戳我](https://github.com/crazywhalecc/CQBot-swoole)
 
-CQBot-swoole-mods（本项目）是框架适用的部分示例模块，你可以直接将此项目中的单独php文件存放到框架下的```sec/cqbot/mods/```文件夹下后reload使用。
+CQBot-swoole-mods（本项目）是框架适用的部分示例模块，你可以直接将此项目中的单独php文件存放到框架下的```src/cqbot/mods/```文件夹下后reload使用。
 
 
 ## 示例模块说明
